@@ -23,12 +23,6 @@ Below is the **Hubble plot** generated from our analysis:
 ## **Results**
 By fitting the data and calculating the Hubble constant, we estimate the **age of the universe** to be approximately **13.8813 billion years**.
 
-## **Repository Contents**
-- `hubble_analysis.nb` – Mathematica notebook with all calculations.
-- `hubble_plot.png` – The generated Hubble plot.
-- `data.csv` – Extracted Type Ia supernovae data.
-- `README.md` – Project documentation.
-
 ## **References**
 - Freedman et al. (2001), *The Astrophysical Journal*, [DOI: 10.1086/320638](https://doi.org/10.1086/320638).
 - Wolfram Mathematica Documentation, [Wolfram.com](https://www.wolfram.com/).
@@ -39,6 +33,6 @@ By fitting the data and calculating the Hubble constant, we estimate the **age o
 1. Clone the repository:
    ```bash
    git clone https://github.com/Islam-Astro/Estimating-the-Age-of-the-Universe.git
-2. Open Estimating the Age of the Univeres.nb in Mathematica and run the calculations.
+2. Open Estimating the Age of the Universe.nb in Mathematica and run the calculations.
 3. Explore the Hubble plot and age estimation results.
 
