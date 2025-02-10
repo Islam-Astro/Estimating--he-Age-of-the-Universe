@@ -21,7 +21,7 @@ Below is the **Hubble plot** generated from our analysis:
 ![Hubble Plot](https://github.com/user-attachments/assets/ff16e4ea-f5a8-4ebe-944f-c6983560ec25)
 
 ## **Results**
-By fitting the data and calculating the Hubble constant, we estimate the **age of the universe** to be approximately **XX billion years**.
+By fitting the data and calculating the Hubble constant, we estimate the **age of the universe** to be approximately **13.8813 billion years**.
 
 ## **Repository Contents**
 - `hubble_analysis.nb` – Mathematica notebook with all calculations.
